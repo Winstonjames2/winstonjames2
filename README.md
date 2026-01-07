@@ -4,7 +4,7 @@
 
 <!-- Quick contact badges -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-winstonjames2-black?style=for-the-badge\&logo=github)](https://github.com/winstonjames2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/) [![Email](https://img.shields.io/badge/Email-hello%40yourdomain.com-orange?style=for-the-badge\&logo=gmail)]
+[![GitHub](https://img.shields.io/badge/GitHub-winstonjames2-black?style=for-the-badge\&logo=github)](https://github.com/winstonjames2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/kyaw-htet-myat-tun-6aa955298/) ![Email](https://img.shields.io/badge/kyawhtetmyattun@gmail.com-orange?style=for-the-badge\&logo=gmail)
 
 ---
 
@@ -77,13 +77,6 @@ Highlights:
 
 ---
 
-## Quick stats
-
-![](https://github-readme-stats.vercel.app/api?username=winstonjames2\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=winstonjames2\&theme=dark\&hide_border=false)
-
----
-
 ## Fun facts
 
 * Strong background in STEM and competitive academic results — I like problems with clear constraints and satisfying edge cases.
@@ -94,8 +87,6 @@ Highlights:
 ## Want to collaborate?
 
 * Star a repo, open an issue, or send a DM on GitHub.
-* Email: `hello@yourdomain.com` (replace with your contact) — or connect on LinkedIn.
+* Email: `kyawhtetmyattun@gmail.com`  — or connect on LinkedIn.
 
 ---
-
-<sub>Made with practical code, a few late-night coffees, and a focus on useful deliverables. If you want this README tailored to a specific job role (data engineer, backend, or mobile), tell me which role and I’ll produce a role-targeted version with an optimized header, keywords, and project highlights.</sub>
