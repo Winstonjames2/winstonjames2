@@ -1,4 +1,4 @@
-# Winston James — Full-Stack Developer & Analytics Engineer
+# Kyaw Htet Myat Tun — Full-Stack Developer & Analytics Engineer
 
 ![Profile header](https://img.shields.io/badge/Developer-Full%20Stack%20%26%20Analytics-blue?style=for-the-badge)
 
