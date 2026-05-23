@@ -31,7 +31,7 @@ Highlights:
 
 ---
 
-## Tech stack (condensed)
+## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
@@ -48,7 +48,6 @@ Highlights:
 * **Inventory Mobile** — Cross-platform Flutter app for inventory counts and offline sync; integrates to the ERP backend with queueing and conflict resolution.
 * **Logistics Insights** — Analytics module that computes customer acquisition/retention KPIs, cohort analysis, and rolling LTV. Easy to integrate with Django ORM models.
 
-*(If you want, I can add curated repo cards here pointing to the top 4 repos with a one-line summary each.)*
 
 ---
 
